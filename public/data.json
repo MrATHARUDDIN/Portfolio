@@ -1,0 +1,50 @@
+[
+    {
+        "Skillname": "HTML",
+        "skilltype": "frontend",
+        "img": "https://i.ibb.co/3pwK5Rd/html.png",
+        "experience": "Expert"
+    },
+    {
+        "Skillname": "CSS",
+        "skilltype": "frontend",
+        "img": "https://i.ibb.co/7XLRmyq/css-3.png",
+        "experience": "Expert"
+    },
+    {
+        "Skillname": "JavaScript",
+        "skilltype": "frontend",
+        "img": "https://i.ibb.co/yYr2GLc/js.png",
+        "experience": "Intermediate"
+    },
+    {
+        "Skillname": "React",
+        "skilltype": "frontend",
+        "img": "https://i.ibb.co/rbXvtCX/react.png",
+        "experience": "Intermediate"
+    },
+    {
+        "Skillname": "Node.js",
+        "skilltype": "backend",
+        "img": "https://i.ibb.co/DL7ysqn/node-js.png",
+        "experience": "Basics"
+    },
+    {
+        "Skillname": "Express.js",
+        "skilltype": "backend",
+        "img": "https://i.ibb.co/NZJCzQQ/express.png",
+        "experience": "Intermediate"
+    },
+    {
+        "Skillname": "MongoDB",
+        "skilltype": "Database",
+        "img": "https://i.ibb.co/8MF5MyN/mongodb.png",
+        "experience": "Basics"
+    },
+    {
+        "Skillname": "Git",
+        "skilltype": "tools",
+        "img": "https://i.ibb.co/Kz30qcs/git.png",
+        "experience": "Basics"
+    }
+]

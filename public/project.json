@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Asset Management System For Office",
+        "Technology": "React, Tailwind, Express, MongoDB",
+        "img1": "https://i.ibb.co/nwjwCFf/Screenshot-2023-12-11-053846.jpg",
+        "img2": "https://i.ibb.co/z6snBFg/Screenshot-2023-12-11-053951.jpg",
+        "img3": "https://i.ibb.co/Cv41yQd/Screenshot-2023-12-11-054015.jpg",
+        "img4": "https://i.ibb.co/84h6D6P/Screenshot-2023-12-11-054050.jpg",
+        "img5": "https://i.ibb.co/Zx99z4t/Screenshot-2023-12-11-054118.jpg",
+        "Livelink": "https://asset-management-a12.web.app/",
+        "ServerRepo": "https://github.com/MrATHARUDDIN/Asset-Management-Server"
+    },
+    {
+        "title": "Freedom - A Blog Website",
+        "Technology": "React, Tailwind, Express, MongoDB",
+        "img1": "https://i.ibb.co/vwXmBMp/Screenshot-2023-12-12-002959.jpg",
+        "img2": "https://i.ibb.co/fFvKwYD/Screenshot-2023-12-12-003032.jpg",
+        "img3": "https://i.ibb.co/jwrc2PW/Screenshot-2023-12-12-003100.jpg",
+        "img4": "https://i.ibb.co/R6Mbf1x/Screenshot-2023-12-12-003138.jpg",
+        "img5": "https://i.ibb.co/v356BDN/Screenshot-2023-12-12-003215.jpg",
+        "Livelink": "https://my-blog-7505c.web.app/",
+        "ServerRepo": "https://github.com/MrATHARUDDIN/My-Blog-Server"
+    }
+]
+
+
+
