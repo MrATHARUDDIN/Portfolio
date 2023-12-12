@@ -10,11 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emailjs/browser": "^3.11.0",
     "axios": "^1.6.2",
+    "file-saver": "^2.0.5",
     "localforage": "^1.10.0",
     "match-sorter": "^6.3.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-photo-view": "^1.2.3",
     "react-router-dom": "^6.20.1",
     "react-spring": "^9.7.3",
     "sort-by": "^1.2.0",

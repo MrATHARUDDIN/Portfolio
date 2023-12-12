@@ -27,7 +27,7 @@ const Project = () => {
                 {project.Technology}
               </h2>
               <div className="card-actions mr-14 justify-end">
-              <Link to="/">
+              <Link to={`/Projects/${project.id}`}>
               <button className="btn bg-violet-400">View Details</button>
               </Link>
                 <a href={project.Livelink} target="_blank" rel="noreferrer">

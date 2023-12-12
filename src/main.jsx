@@ -11,6 +11,7 @@ import Home from './Components/Home.jsx';
 import Contact from './Components/Contact/Contact.jsx';
 import About from './Components/About/About';
 import Project from './Components/Project/Project.jsx';
+import ProjectDetails from './Components/Project/ProjectDetails.jsx';
 
 const router = createBrowserRouter([
   {
@@ -32,7 +33,12 @@ const router = createBrowserRouter([
       {
         path: "/Projects",
         element: <Project></Project>
-      }
+      },
+      {
+        path: "/Projects/:id", 
+        element: <ProjectDetails />,
+        loader: () => fetch("project.json")
+      },
     ]
   },
 ]);
